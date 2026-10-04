@@ -1,0 +1,10 @@
+# Lokale pc-instellingen en ontwikkelbestanden
+.env
+.env.*
+!.env.example
+!.env.*.example
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+.ftp-credentials.txt
